@@ -1,0 +1,7 @@
+#form_task{
+	margin: 2rem ;
+}
+
+.task_text{
+	user-select: none;
+}
